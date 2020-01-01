@@ -36665,9 +36665,9 @@ $C:"$0",
 $R:0,
 $S:0}
 K.vh.prototype={
-K:function(a){var u="assets/images/github.png",t=null,s=[N.bG]
-s=T.VS(H.b([new K.wD(U.oJ(u,t,t).c,100,t),new T.cz(t,20,t,t),L.qB("Samet \u015eahin",t,4),new T.cz(t,20,t,t),T.Po(H.b([N.PJ(new T.cz(20,20,U.oJ(u,t,t),t),L.qB("Github",t,t),new K.vi()),N.PJ(new T.cz(20,20,U.oJ("assets/images/twitter.png",t,t),t),L.qB("Twitter",t,t),new K.vj()),N.PJ(new T.cz(20,20,U.oJ("assets/images/linkedin.png",t,t),t),L.qB("Linkedin",t,t),new K.vk())],s),C.dC,C.kn,C.hN)],s),C.dC,C.eY)
-return new E.Gj(!0,new T.fY(C.H,t,t,new T.hq(C.nL,s,t),t),t)}}
+K:function(a){var u=null,t=[N.bG]
+t=T.VS(H.b([new K.wD(U.oJ("assets/images/avatar.jpg",u,u).c,100,u),new T.cz(u,20,u,u),L.qB("Samet \u015eahin",u,4),new T.cz(u,20,u,u),T.Po(H.b([N.PJ(new T.cz(20,20,U.oJ("assets/images/github.png",u,u),u),L.qB("Github",u,u),new K.vi()),N.PJ(new T.cz(20,20,U.oJ("assets/images/twitter.png",u,u),u),L.qB("Twitter",u,u),new K.vj()),N.PJ(new T.cz(20,20,U.oJ("assets/images/linkedin.png",u,u),u),L.qB("Linkedin",u,u),new K.vk())],t),C.dC,C.kn,C.hN)],t),C.dC,C.eY)
+return new E.Gj(!0,new T.fY(C.H,u,u,new T.hq(C.nL,t,u),u),u)}}
 K.vi.prototype={
 $0:function(){return C.al.pJ(window,"https://github.com/SametSahin10","Samet Sahin")},
 $S:25}
